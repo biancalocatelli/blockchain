@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "name": "Mercedes Benz",
+    "picture": "images/carro-01.png",
+    "price": "R$ 150.000",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Widebody Mustang GT 5.0",
+    "picture": "images/carro-02.jpg",
+    "price": "R$ 280.000",
+    "location": "Dawn, Wisconsin"
+  },
+  {
+    "id": 2,
+    "name": "Widebody Mustang GT 5.0",
+    "picture": "images/carro-03.jpg",
+    "price": "R$ 190.000",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 3,
+    "name": "Lamborghini Centenario",
+    "picture": "images/carro-04.png",
+    "price": "R$ 540.000",
+    "location": "Sultana, Massachusetts"
+  }
+]

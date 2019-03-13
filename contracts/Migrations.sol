@@ -1,3 +1,5 @@
+// Contains the Solidity source files for our smart contracts.
+
 pragma solidity ^0.4.23;
 
 contract Migrations {
