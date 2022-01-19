@@ -1,7 +1,5 @@
 ## Blockchain para Sistemas Ciber-físicos
 
-**Autora:** Bianca de Lima Pinto <br>
-**Orientador:** Prof. Dr. Vilmar Abreu Junior <br>
 **Data:** 01/08/2019
 
 ### Conectar com a blockchain:
